@@ -1,5 +1,12 @@
 # Ice-Cream-Sales-Analysis
-![slashio-photography-8KzRP2YY6ag-unsplash](https://user-images.githubusercontent.com/50262369/217250308-5205e970-3844-4aad-a0a2-b92c93ab83b6.jpg)
+
+
+
+![lama-roscu-Wpg3Qm0zaGk-unsplash](https://user-images.githubusercontent.com/50262369/217251035-ae6fdd5b-0dd1-46ba-9b5c-cd8dc851fb0b.jpg)
+
+
+
+
 
 PROJECT SUMMARY
 
